@@ -62,4 +62,4 @@ python marker.py -f ./example/test.png -m WMK水印
 
 ## License
 
-The GPL License.
+The GPL-2.0 license.
